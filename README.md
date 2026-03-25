@@ -1,4 +1,5 @@
 ​🛒 Gestor de Estoque Inteligente em C
+
 ​Este projeto é um sistema de controle de estoque desenvolvido em linguagem C, focado em praticidade e eficiência para o gerenciamento de produtos.
 ​🚀 Funcionalidades Principais:
 ​Cadastro Completo: Registro de nome, quantidade atual, preço unitário e nível de estoque mínimo.
